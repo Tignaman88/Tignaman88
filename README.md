@@ -1,0 +1,1 @@
+Hi everyone, my name's Alessio. I live in UK and studying part-time at The Open University as software developer. I am also taking a Python course on Udemy. I am very new to programming and hopefully it will be something that I can do and you can all help me understanding what's better and what's not
